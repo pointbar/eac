@@ -4,7 +4,7 @@
 
 Cette plateforme est en phase de début de développement.
 
-Son objectif est d'être rapidement confrontée aux utilisatrices•eurs afin
+Son objectif est d'être rapidement confrontée aux utilisatrices·eurs afin
 de mettre en adéquation l'outil à la finalité de leurs usages.
 
 La philosophie technique de cette plateforme est de faire [_simple_](https://menwithpens.ca/simple-and-easy-blogging/),
@@ -23,7 +23,7 @@ git clone https://github.com/betagouv/eac.git
 Et ouvrez le fichier eac/index.html avec votre navigateur web.
 
 Il n'y a rien à installer.
-Pas de dépendence externe.
+Pas de dépendance externe.
 Pas non plus de transpilation ou post-processeur. [_Ça juste marche_](https://fr.wikipedia.org/wiki/N%C3%A9ologisme).
 
 
